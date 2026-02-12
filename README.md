@@ -16,7 +16,6 @@ git clone https://github.com/trevorcourville/GitHub-User-API-Dashboard.git
 cd ts-api-dashboard
 npm install
 npm run dev
-npm run build
 ```
 
 - Open http://localhost:5173/ in browser
