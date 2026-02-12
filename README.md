@@ -19,3 +19,8 @@ npm run dev
 ```
 
 - Open http://localhost:5173/ in browser
+
+## Screenshots
+
+![Initial](screenshots/screenshot1.png)
+![User](screenshots/screenshot2.png)
