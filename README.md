@@ -12,7 +12,7 @@ A lightweight frontend TypeScript/Vite application that allows users to search f
 ## Running
 
 ```bash
-git clone https://github.com/trevorcourville/TypeScript-API-Dashboard.git
+git clone https://github.com/trevorcourville/GitHub-User-API-Dashboard.git
 cd ts-api-dashboard
 npm install
 npm run dev
